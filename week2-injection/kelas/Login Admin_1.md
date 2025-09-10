@@ -20,7 +20,7 @@
    Saat memasukkan karakter `'` pada kolom *login* maupun *password*, aplikasi menampilkan error.  
    Hal ini mengindikasikan bahwa input pengguna langsung dieksekusi dalam query SQL.  
 
-   <img width="1500" alt="error-injection" src="https://github.com/user-attachments/assets/f0eca2d0-175a-4db7-9780-026938ee8345">
+   <img width="1500" alt="S1S1" src="https://github.com/user-attachments/assets/67ce711c-533a-44c2-8c6c-aa5dc04f19a6"/>">
 
 ---
 
