@@ -1,6 +1,6 @@
 # SQL Login Bypass
 
-🔗 **Resource Link:** [Juice Shop - Injection Challenges](https://portswigger.net/web-security/sql-injection/lab-login-bypass)
+🔗 **Resource Link:** https://portswigger.net/web-security/sql-injection/lab-login-bypass
 
 ---
 
