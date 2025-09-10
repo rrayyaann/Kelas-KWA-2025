@@ -1,16 +1,14 @@
 # Forbidden Paths - PicoCTF
 
-🔗 **Resource Link:** [PortSwigger Lab - SQL Injection](https://play.picoctf.org/practice/challenge/270?page=1&search=Forbidden%20Paths%20p)
+🔗 **Resource Link:** https://play.picoctf.org/practice/challenge/270?page=1&search=Forbidden%20Paths%20p
 
 ---
 
 ## Dokumentasi
 <details>
 <summary>Tangkapan Layar</summary>
+<img width="1500" src="https://github.com/user-attachments/assets/5c7fa279-3fe6-4ed1-94a8-69d5fbb97c1c" />
 
-<!-- ![login-test](../assets/login-test.png) -->
-<!-- ![payload-success](../assets/payload-success.png) -->
-<!-- ![burp-repeater](../assets/burp-repeater.png) -->
 
 </details>
 
@@ -20,8 +18,6 @@
    Dari deskripsi lab, diketahui bahwa file **`flag.txt`** berada pada direktori: `/usr/share/nginx/html/`
 
    Aplikasi memiliki pemfilteran jalur absolut, sehingga langsung mengakses `/usr/share/nginx/html/flag.txt` akan gagal. Oleh karena itu, pendekatan **path traversal** (`../`) digunakan.  
-
-<img width="1500" alt="dir-traversal-test" src="https://github.com/user-attachments/assets/1111111111"/>
 
 ---
 
